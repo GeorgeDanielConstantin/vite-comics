@@ -114,6 +114,7 @@ export default {
 section {
   background-color: black;
   color: white;
+  padding: 1rem;
 }
 
 .container {
